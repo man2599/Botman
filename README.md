@@ -30,4 +30,4 @@ Nano Tes.py    (Edit MID)
 
 cd botLineEm
 
-PYThon3 Tes.py
+python3 EmbotSelf.py
